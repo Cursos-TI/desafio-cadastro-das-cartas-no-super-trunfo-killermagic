@@ -3,7 +3,7 @@
 int main(){
     int populacao, populacao2, turista, turista2;
     float area, area2, pib, pib2;
-    char codigo_carta[10], codigo_carta2[3], cidade[50], cidade2[50], estado[1], estado2[1];
+    char codigo_carta[10], codigo_carta2[3], cidade[50], cidade2[50], estado[5], estado2[5];
 
     printf("digite o estado: \n");
     scanf("%s", &estado);
